@@ -11,3 +11,5 @@ https://docs.scrapy.org/en/latest/intro/tutorial.html - продолжаем 30.
 
 День настанет или нет когда я буду его применять на практике а не читая скопируя вставляя и забывается (вот это трагедея для начинающего, почему а?)
 Не сдавайся iDONi.
+
+https://docs.scrapy.org/en/latest/topics/commands.html  - продолжаем 07.12.2024 18:26
