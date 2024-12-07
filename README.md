@@ -13,3 +13,5 @@ https://docs.scrapy.org/en/latest/intro/tutorial.html - продолжаем 30.
 Не сдавайся iDONi.
 
 https://docs.scrapy.org/en/latest/topics/commands.html  - продолжаем 07.12.2024 18:26
+
+интересно из дома у меня получиться продолжать из места где я остовилась почему нет  человека который мне будет давать советы. iDONi не сдавайся, хочу плакать.
