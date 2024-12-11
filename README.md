@@ -19,3 +19,5 @@ https://docs.scrapy.org/en/latest/topics/commands.html  - продолжаем 0
 Посещение github хочу сделать как сердечко. Терпение и терпение
 
 https://docs.scrapy.org/en/latest/topics/spiders.html - 08.12.2024-16:34 - терпи и продолжай
+
+https://docs.scrapy.org/en/latest/topics/spiders.html - start_requests()¶ - 10.12.2024 - 01:46 - учимся на своих ошибках - это прикольно
